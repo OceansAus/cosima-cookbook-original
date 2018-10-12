@@ -1,5 +1,7 @@
 # cosima-cookbook
 
+**This is an archive of the original cookbook before it was split. Please see the updated `cosima-cookbook` repository!**
+
 The COSIMA Cookbook is a framework for analysing output from ocean-sea ice models. The focus is on the ACCESS-OM2 suite of models being developed and run by members of [COSIMA: Consortium for Ocean-Sea Ice Modelling in Australia](http://cosima.org.au), but the framework is suitable for other model output.
 
 ## Getting Started
